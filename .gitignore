@@ -1,0 +1,7 @@
+data
+
+src/core/__pycache__
+
+project/__pycache__
+project/.env
+project/cert.pem
